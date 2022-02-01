@@ -6,7 +6,7 @@ public class Main {
     }
 
     private static String introduce(String name) {
-        return "Hi, my name is " + name + ".";
+        return "My name is " + name + ".";
     }
 
     private static int age() {
