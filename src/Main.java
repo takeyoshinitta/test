@@ -10,7 +10,7 @@ public class Main {
     }
 
     private static int age() {
-        return 19;
+        return 20;
     }
 
     // Takeyoshi: make a method to return hobbies, put it in main
