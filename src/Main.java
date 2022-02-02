@@ -23,6 +23,10 @@ public class Main {
             return "My hobby is coding";
         }
     }
+    
+    private static String foo() {
+        return "foo";
+    }
     // Jason: make a method to return occupation, put it in main
     // Naoshi: make a method to return nationality, put it in main
 
